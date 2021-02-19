@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MartinLoza&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-The goal of martinloza is to ...
-
+<!--
 What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
+
 
 ```{r cars}
 summary(cars)

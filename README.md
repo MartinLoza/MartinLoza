@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 [![Anurag’s github
 stats](https://github-readme-stats.vercel.app/api?username=MartinLoza&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-The goal of martinloza is to …
+<!--
+What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
 
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
 
-``` r
+
+```r
 summary(cars)
 #>      speed           dist       
 #>  Min.   : 4.0   Min.   :  2.00  
@@ -43,11 +43,7 @@ summary(cars)
 #>  Max.   :25.0   Max.   :120.00
 ```
 
-You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date. `devtools::build_readme()` is handy for this. You could also
-use GitHub Actions to re-render `README.Rmd` every time you push. An
-example workflow can be found here:
-<https://github.com/r-lib/actions/tree/master/examples>.
+You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date. `devtools::build_readme()` is handy for this. You could also use GitHub Actions to re-render `README.Rmd` every time you push. An example workflow can be found here: <https://github.com/r-lib/actions/tree/master/examples>.
 
 You can also embed plots, for example:
 
@@ -55,3 +51,5 @@ You can also embed plots, for example:
 
 In that case, don’t forget to commit and push the resulting figure
 files, so they display on GitHub.
+
+–\>
