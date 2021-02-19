@@ -17,9 +17,11 @@ knitr::opts_chunk$set(
 <!-- badges: end -->
 
 
+### Hola!! I am Martin 👋
+
+My goal is to improve everyone's quality of life using science (nerdy 😄)
 
 
-### Hi there 👋
 <!--
 **MartinLoza/MartinLoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,3 +57,5 @@ plot(pressure)
 ```
 
 In that case, don't forget to commit and push the resulting figure files, so they display on GitHub.
+
+-->

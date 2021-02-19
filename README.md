@@ -7,7 +7,9 @@
 
 <!-- badges: end -->
 
-### Hi there 👋
+### Hola\!\! I am Martin 👋
+
+My goal is to improve everyone’s quality of life using science (nerdy 😄)
 
 <!--
 **MartinLoza/MartinLoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
